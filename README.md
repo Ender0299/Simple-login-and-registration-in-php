@@ -13,5 +13,5 @@ Simple login and registration in php. This is a basic stack, you can integrate t
     - Username: user
     - Email:    user@user.com
     - Password: Username1!*
-
+cxiao
 
